@@ -1,0 +1,18 @@
+The dataset contains the below columns:
+ID –unique ID for each question.
+Title – Question title
+java_tag – If a question belongs to java domain then its value is 1 otherwise its 0.
+android_tag - If a question belongs to android domain then its value is 1 otherwise its 0.
+javascript_tag - If a question belongs to JavaScript domain then its value is 1 otherwise its 0.
+multithreading_tag - If a question belongs to multithreading domain then its value is 1 otherwise its 0.
+mysql_tag - If a question belongs to MySQL domain then its value is 1 otherwise its 0.
+swing_tag - If a question belongs to swing domain then its value is 1 otherwise its 0.
+exception_tag - If a question belongs to exception domain then its value is 1 otherwise its 0.
+eclipse_tag - If a question belongs to eclipse domain then its value is 1 otherwise its 0.
+python_tag - If a question belongs to python domain then its value is 1 otherwise its 0.
+django_tag - If a question belongs to django domain then its value is 1 otherwise its 0.
+dictionary_tag - If a question belongs to dictionary domain then its value is 1 otherwise its 0.
+matplotlib_tag - If a question belongs to matplotlib domain then its value is 1 otherwise its 0.
+numpy_tag - If a question belongs to numpy domain then its value is 1 otherwise its 0.
+scala_tag - If a question belongs to scala domain then its value is 1 otherwise its 0.
+functional_programming_tag - If a question belongs to functional_programming domain then its value is 1 otherwise its 0.
